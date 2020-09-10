@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Нельзя просто так взять и поменять строку 5.
 Use the left arrow to go back!
